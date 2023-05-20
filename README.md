@@ -3,7 +3,7 @@
 🤝🏻 <a href="https://www.linkedin.com/in/AbhishekGusain1007/">My LinkedIn profile</a>
 
 ## About Me 
-Hey, I’m Gianluca. I'm from Dehradun, India and I'm a self-taught developer. I usually work with React and TypeScript in Next.js but have found some interest in AI/ML recently. I'm a huge enthusiast of Technology and Football, Feel free to follow me or reach out to me regarding questions, feedback, criticism or quite literally *anything* else. 
+Hey, I’m Abhishek Gusain. I'm from Dehradun, India and I'm a self-taught developer. I usually work with React and TypeScript in Next.js but have found some interest in AI/ML recently. I'm a huge enthusiast of Technology and Football, Feel free to follow me or reach out to me regarding questions, feedback, criticism or quite literally *anything* else. 
 
 ## My Tech Stack
 
