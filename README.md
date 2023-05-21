@@ -2,7 +2,7 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
 ## My portfolio
-🖥 <a href="https://abhishekgusain.vercel.app">My Portfolio website </a></br/>
+🖥 <a href="https://abhishekgusain.vercel.app">My Portfolio website </a><br></br>
 
 🤝🏻 <a href="https://www.linkedin.com/in/AbhishekGusain1007/">My LinkedIn profile</a>
 
