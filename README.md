@@ -1,10 +1,15 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/AbhishekGusain1007/" target="_blank"> Abhishek Gusain </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
-## My portfolio
-🖥 <a href="https://abhishekgusain.vercel.app">My Portfolio website </a><br></br>
+<a href="https://www.linkedin.com/in/Abhishekgusain1007/">
+  <img align="left" alt="Abhishek Gusain's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/Abhishek_gusain_1007/">
+  <img align="left" alt="Abhishek Gusain's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
+<br></br>
 
-🤝🏻 <a href="https://www.linkedin.com/in/AbhishekGusain1007/">My LinkedIn profile</a>
+🖥 <a href="https://abhishekgusain.vercel.app">My Portfolio website </a><br></br>
+🏻 <a href="https://www.linkedin.com/in/AbhishekGusain1007/">My LinkedIn profile</a>
 
 ## About Me 
 I'm from Dehradun, India and I'm a self-taught developer. I usually work with React and TypeScript in Next.js but have found some interest in AI/ML recently. I'm a huge enthusiast of Technology and Football, Feel free to follow me or reach out to me regarding questions, feedback, criticism or quite literally *anything* else. 
